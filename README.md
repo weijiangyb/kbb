@@ -1,7 +1,7 @@
 # KBB used car data collection, data anaysis, and car prices prediction
 
 ## Objective:
-1. Using Scrapy library to collect used cars data from KBB.com#.
+1. Using Scrapy library to collect used cars data from KBB.com.
 
 2. Build prediction models
 
