@@ -1,9 +1,7 @@
-# kbb_scrapy
-web-scrape KBB used cars data
-
+# KBB used car data collection, data anaysis, and car prices prediction
 
 ## Objective:
-1. Using Scrapy library to scrpape used cars data from KBB.com#. Scraped data will be used to build prediction models for used cars.
+1. Using Scrapy library to collect used cars data from KBB.com#.
 
 2. Build prediction models
 
