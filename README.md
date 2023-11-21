@@ -82,3 +82,21 @@ vhrPreview_owner: One-owner or not one-owner
 vhrPreview_salvage: Have salvage title or no salvage title
 
 vin: VIN code
+
+
+## Exploratory Data Analysis:
+
+#### Top 30 makers - Tree map
+
+![alt text](https://github.com/weijiangyb/kelley_blue_book_project/assets/49177890/73fdf8b7-0da8-47d1-bf52-6f6c3911f2e9)
+
+#### Count plot by make
+![alt_text](https://github.com/weijiangyb/kelley_blue_book_project/assets/49177890/cc8d2526-fc90-4c07-96a5-73ddc6bf4927)
+
+
+#### Count plot by body type
+![alt_text](https://github.com/weijiangyb/kelley_blue_book_project/assets/49177890/638057ec-b8ea-41e6-86b1-13eb961c7526)
+
+
+
+
